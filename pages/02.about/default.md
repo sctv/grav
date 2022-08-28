@@ -28,7 +28,5 @@ content:
              the wider UK and the international. as well as doing, I am a proponent of documentation, mapping and promotion of the communities I am a part of, and
              artist/writers/theorists I admire.
              
-			[Me in my own words](vimeo.com/209172212)  vimeo here from an interview in 2017 relating to Little Inventers project
-			Orcid reference [0000-0002-3930-8569](orcid.org/0000-0002-3930-8569)			
-           
-            []()
+			[Me in my own words](http://vimeo.com/209172212.htm)  vimeo here from an interview in 2017 relating to Little Inventers project
+			Orcid reference [0000-0002-3930-8569](http://orcid.org/0000-0002-3930-8569)			
