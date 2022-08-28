@@ -3,5 +3,6 @@ title: Home
 body_classes: 'title-center title-h1h2'
 ---
 
-# Say Hello to Brian
-## installation successful...
+# Brian Degger
+[about](about)
+[works](page3)
