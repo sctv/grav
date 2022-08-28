@@ -5,4 +5,4 @@ body_classes: 'title-center title-h1h2'
 
 # Brian Degger
 [about](about)
-[works](page3)
+[works](/pages/page3)
