@@ -4,6 +4,6 @@ body_classes: 'title-center title-h1h2'
 ---
 
 # Brian Degger
-[about](https://www.briandegger.uk/about)
+[about](https://briandegger.uk/about)
 
 [works](page3)
